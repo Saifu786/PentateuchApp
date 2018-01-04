@@ -14,7 +14,7 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 
 
-public class MainActivity extends AppCompatActivity {
+public class ClientActivity extends AppCompatActivity {
     GridView simpleGrid;
     int logos[] = {R.drawable.appex, R.drawable.aptara1, R.drawable.bbmp1, R.drawable.diacritech,
             R.drawable.first_source, R.drawable.hdfc, R.drawable.innodata, R.drawable.linkedin,
